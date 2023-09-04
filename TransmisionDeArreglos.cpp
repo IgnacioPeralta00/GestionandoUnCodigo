@@ -11,6 +11,7 @@ int main()
     const int n_elementos = 5;
     int numeros[n_elementos] = {-5, -3, 0, 55, 2};
     cout << "El numero mayor es: " << hallarMax(numeros, n_elementos) << endl;
+    cout << "Hola este es el tengereche, saludos y feliz año nuevo" << endl;
     cout << "\n";
     system("pause");
     return 0;
